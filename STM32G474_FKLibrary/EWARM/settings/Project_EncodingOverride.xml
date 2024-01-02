@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>F:\Ongoing Project\STM32G474_FKLibrary\Module\FK\fk_gpio_udef.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>F:\Ongoing Project\STM32G474_FKLibrary\Module\MODBUS_SLAVE\c_src\modbus_slave_glb_vars.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>F:\Ongoing Project\STM32G474_FKLibrary\Module\PFC\c_src\pfc_glb_vars.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>F:\Ongoing Project\STM32G474_FKLibrary\Module\PFC\c_src\pfc_glb_vars.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>F:\Ongoing Project\STM32G474_FKLibrary\Module\PFC\c_src\pfc_init.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>F:\Ongoing Project\STM32G474_FKLibrary\Module\PFC\c_src\pfc_task.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>F:\Ongoing Project\[1]FW project\【模組化】\STM32G474_FKLibrary\Module\FK\fk_gpio_udef.h</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>

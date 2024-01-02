@@ -1,0 +1,242 @@
+# ninja log v5
+36346	37317	7247529306323607	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim.pbi	8882136fde74946b
+8518	9186	7247529020000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma_ex.xcl	101fe75b429fe36f
+10780	11483	7247529040000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ramfunc.xcl	87aede30b039b980
+266	1361	7247528860000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/stm32g4xx_hal_msp.xcl	ace122ed4c6602e2
+178	1243	7247528860000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.xcl	d8305b2663ee9913
+37319	38308	7247529316237887	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim_ex.pbi	eb03c56ff75e8cc1
+11486	12102	7247529050000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart_ex.xcl	e5745344939d55aa
+7197	7865	7247529010000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal.xcl	ea4f07144ac85749
+9189	9776	7247529030000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_cortex.xcl	3807cc36871cc07d
+1245	1952	7247528860000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/stm32g4xx_it.xcl	75d877c13cc3cabc
+13671	14585	7247541023143361	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part0.pbi	6695cc7b3b9d95ec
+36253	37187	7247529305004382	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc.pbi	55be807a444d9127
+30	1307	7247540813312444	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/stm32g4xx_hal_msp.pbi	5e0aa2992d09b7e4
+6445	7152	7247529000000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/CMSIS/system_stm32g4xx.xcl	decfaee2321cdf95
+7869	8608	7247529010000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma.xcl	bb9e625683c985e4
+8611	9274	7247529020000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash.xcl	75dc741d12272318
+29917	31113	7247529244279455	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash.pbi	f00175d7d6f059bb
+7819	8516	7247529010000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ex.xcl	4635f82a95f7ba82
+10516	11234	7247529040000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_gpio.xcl	605f27ef270fc5a5
+9277	10002	7247529030000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_exti.xcl	9d2a3f767f1f70aa
+12670	13273	7247529060000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim_ex.xcl	aa2828bc6c6eec90
+26024	27268	7247529205571415	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ex.pbi	9920aec3bc594809
+9779	10513	7247529030000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr.xcl	56cea5da9ce4a74d
+15877	16975	7247541047065465	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	5b198fee1f5ef6d8
+11236	11931	7247529050000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc.xcl	18ec672be878459a
+10005	10775	7247529040000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr_ex.xcl	fcf9349e61587210
+12104	12667	7247529050000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim.xcl	323bdbd15603d42f
+13420	14015	7247529070000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc_ex.xcl	fd08946e9d3c9e5a
+1364	2078	7247528860000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_task.xcl	73fa792304ddbbd1
+2278	3041	7247528960000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_drv.xcl	32e44ca64ed9f2d8
+14018	14527	7247529070000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart.xcl	71380f6b8cf56922
+37836	38754	7247529320675320	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart.pbi	9acda68b5f209786
+9541	10917	7247540986409142	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_glb_vars.pbi	fbd0cb35fb4f2d3e
+34	1514	7247540892409317	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/stm32g4xx_it.pbi	5bb23e633e196080
+31114	32183	7247529254953283	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/CMSIS/system_stm32g4xx.pbi	b13cfa75762ddcad
+16977	21220	7247541087558930	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	19a3d9c6809df62d
+27270	28404	7247529217204690	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal.pbi	e806363639452492
+70	1339	7247540813452362	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.pbi	baa63a3eab745cad
+890	1523	7247528940000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_init.xcl	9a4e39569be82669
+27235	28446	7247529217604471	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_cortex.pbi	a0a5cf3f62abd9de
+5691	6971	7247540946980101	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_drv.pbi	b2224a1710a26ada
+28448	29915	7247529232146058	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ramfunc.pbi	6c3749a1bc596da
+32184	33195	7247529265087446	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma_ex.pbi	aa1f23eb365683d2
+29882	31146	7247529244359416	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_exti.pbi	c0ad09f6a016b92f
+63	1545	7247540892649186	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_drv.pbi	b14958e39062cfa2
+28405	29880	7247529231956163	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma.pbi	34eed12086aaca65
+3044	3807	7247528970000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_drv.xcl	5b44244aa51eb3e9
+32404	33314	7247529266276749	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr.pbi	ec9aeda7563f306e
+26052	27234	7247529205511459	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_gpio.pbi	c2e31352c571032
+1547	3332	7247540910568841	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_glb_vars.pbi	d6ff91e602ee038
+14465	14610	7247529079263372	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_init.pbi	50c9ecd8c4fa32ee
+35424	36251	7247529295679762	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr_ex.pbi	7b4129cc3cdf26e9
+34510	35422	7247529287364571	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc_ex.pbi	638b685b6a264bed
+2387	3172	7247528960000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_init.xcl	bc3328b8d357c481
+34291	35171	7247529284846024	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart_ex.pbi	77ff7a735531e04f
+38309	39313	7247529326352033	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part4.pbi	8c0df7dc53900fba
+12266	13669	7247541013908672	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part1.pbi	39cc8fc0bb323496
+13629	15148	7247541028750103	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part2.pbi	717ab333c547322
+1657	2385	7247528950000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_task.xcl	3d8568845b2b3843
+14586	15876	7247541036065892	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part3.pbi	ea9c7ae16484ec39
+2081	2863	7247528870000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_drv.xcl	a378c092a2c92574
+1526	2276	7247528950000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_glb_vars.xcl	15a3bb884556b4a9
+38755	39770	7247529330909437	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part5.pbi	2e0383741761ecf8
+9693	10950	7247540986479108	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_task.pbi	773069db6ed2b08c
+8302	9691	7247540974186209	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_init.pbi	d6bf71a103023240
+845	1654	7247528940000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_glb_vars.xcl	86d97e2b87486175
+4974	5737	7247528980000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_task.xcl	52eee2ee134de278
+5754	7000	7247540947259940	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_init.pbi	2dc19e5f8be1448a
+6972	8233	7247540959610751	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_task.pbi	c58fd32633170cd2
+7154	7816	7247529010000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_init.xcl	4e2d7243787f0a08
+6490	7194	7247529000000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_glb_vars.xcl	33d41193e42c6fc9
+5740	6443	7247528990000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_udef.xcl	a5f5a9c83f03511
+5694	6488	7247528990000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_task.xcl	39a613fc19f0f330
+10918	12220	7247540999467444	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_init.pbi	4f86433f784bd593
+3289	4540	7247540922681864	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_drv.pbi	a8fade9e75d90b8
+4542	5752	7247540934754884	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_glb_vars.pbi	7a729d89f80a2ea5
+12222	13628	7247541013518889	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_udef.pbi	13bb4ba8304b4df2
+10952	12264	7247540999577396	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_task.pbi	5617487714bd69c6
+4906	5692	7247528980000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_init.xcl	59a1daa69fab6f8b
+4002	4904	7247528980000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_drv.xcl	10fc61698ad1b54b
+3175	4000	7247528970000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_glb_vars.xcl	da10294f48493eb7
+3810	4972	7247528980000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_task.xcl	bdc8a8ad94ecbeec
+8235	9540	7247540972667078	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_init.pbi	30950c3fee5b398d
+4486	5689	7247540934165220	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_task.pbi	72be006b234c3bd
+3334	4484	7247540922102188	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_drv.pbi	3c682ee238037702
+7001	8301	7247540960240386	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_glb_vars.pbi	706714c68fe35643
+39314	40273	7247529335946586	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part6.pbi	f1ea2d2938de49fe
+78	842	7247528940000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_glb_vars.xcl	aeafa4368b4912ea
+1956	2745	7247528870000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_init.xcl	7c406365f2b50250
+39	887	7247528940000000	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_drv.xcl	8c1a06776919f979
+1515	3287	7247540910089128	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_task.pbi	6d28ea27eb3f25e4
+15818	15973	7247529092915317	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_drv.pbi	386ae1f55e692d84
+17094	17225	7247529105408111	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_glb_vars.pbi	9f5e26b82ae2b712
+120	3683	7247544551157351	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.pbi	baa63a3eab745cad
+3685	5460	7247544568957085	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part0.pbi	6695cc7b3b9d95ec
+5461	7029	7247544584695515	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	5b198fee1f5ef6d8
+7031	11042	7247544623280488	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	19a3d9c6809df62d
+43	1040	7247546758011940	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_drv.pbi	a8fade9e75d90b8
+32	1218	7247546834747197	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part3.pbi	ea9c7ae16484ec39
+1220	2140	7247546843971856	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	5b198fee1f5ef6d8
+2142	6408	7247546884708374	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	19a3d9c6809df62d
+87	1502	7247547591718767	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_drv.pbi	a8fade9e75d90b8
+46	1540	7247547591978615	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_task.pbi	c58fd32633170cd2
+88	1487	7247547669067945	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part3.pbi	ea9c7ae16484ec39
+41	1678	7247547670986834	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part2.pbi	717ab333c547322
+1680	2738	7247547681590723	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	5b198fee1f5ef6d8
+2740	6351	7247547716101315	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	19a3d9c6809df62d
+47	3560	7247549069394981	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.pbi	baa63a3eab745cad
+3561	5267	7247549086495104	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part0.pbi	6695cc7b3b9d95ec
+5268	7145	7247549105324244	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	5b198fee1f5ef6d8
+7146	11137	7247549143662219	F:/Ongoing Project/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	19a3d9c6809df62d
+3474	8217	7248222350000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/stm32g4xx_hal_msp.xcl	1cb2e655c7f10c45
+4663	8275	7248222360000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.xcl	fd158baef6224c0c
+8278	10064	7248222370000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_task.xcl	9dba1b666c3a32bb
+8228	10114	7248222370000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/stm32g4xx_it.xcl	34886670b062ccd4
+10067	10875	7248222380000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_glb_vars.xcl	ce9277400bb28b9b
+10116	10996	7248222380000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_drv.xcl	755a97fd685cebf3
+10878	11543	7248222390000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_glb_vars.xcl	955734478487d4ac
+10999	11657	7248222390000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_init.xcl	782fa1b419ab8d22
+11545	12382	7248222400000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_init.xcl	4b6fab7d499ed9aa
+11659	12456	7248222400000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_glb_vars.xcl	ae57a384cf07b4f7
+12458	13017	7248222400000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_init.xcl	1e72c5a293091763
+12384	13070	7248222400000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_drv.xcl	8c26b98bf335f79
+13072	13790	7248222410000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_task.xcl	a36b673f71d4ae38
+13019	13842	7248222410000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_task.xcl	ab9dfb7d3a9cf4f6
+13793	14580	7248222420000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_drv.xcl	604c5115aaa3d253
+13844	14627	7248222420000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_glb_vars.xcl	4092f14cc9d6264a
+14583	15234	7248222420000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_udef.xcl	24dc200de2bedca2
+14629	15282	7248222430000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal.xcl	f3c19fa9086aa79c
+15237	15922	7248222430000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_init.xcl	e71654999cea5f8f
+15284	15971	7248222430000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_task.xcl	37200b08a67600af
+15924	16606	7248222440000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/CMSIS/system_stm32g4xx.xcl	d17ce24497b1230d
+15974	16713	7248222440000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ex.xcl	c62c460a091b2ad0
+16609	17274	7248222450000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma_ex.xcl	3e6538a459f84732
+16715	17361	7248222450000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_cortex.xcl	7259b039e24a7d0d
+17364	17854	7248222450000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash.xcl	c43df0a0f1957d87
+17277	17891	7248222450000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_exti.xcl	54a50248bbbb7bac
+17856	18323	7248222460000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma.xcl	d5a29c58ae1995d4
+17894	18472	7248222460000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_gpio.xcl	b66f5c1bc4c80f60
+18474	18965	7248222460000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ramfunc.xcl	b05f4a8c1b77bde6
+18326	19001	7248222460000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr.xcl	37b0d31c35758e87
+18968	19425	7248222470000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr_ex.xcl	5f08add1b845971e
+19004	19575	7248222470000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc_ex.xcl	f7f8665ba4b49c18
+19428	20020	7248222470000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc.xcl	531442bbc495fe23
+19577	20075	7248222470000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart.xcl	826cf22b2823d6d0
+20077	21280	7248222490395189	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.pbi	df1b72ef1bfb9bdd
+20023	21316	7248222490475064	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/stm32g4xx_hal_msp.pbi	ba8e6ff2416e92f1
+21282	21877	7248222490000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim.xcl	1dceb99fdefd58a8
+21318	21930	7248222490000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim_ex.xcl	59a9796d52899ec
+21881	22437	7248222500000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart_ex.xcl	c1ef8bda98e2615a
+21932	23268	7248222510251655	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/stm32g4xx_it.pbi	bd569aa5875e905c
+22440	23635	7248222513959490	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_init.pbi	3ba72bf9514dd82a
+23270	24451	7248222522084775	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_drv.pbi	bb4c661a07317c0c
+23637	24721	7248222524803199	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_task.pbi	618f8044e876f646
+24453	25555	7248222533148323	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_task.pbi	ae6aef3c68278546
+24724	25793	7248222535546924	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_init.pbi	cfbc4fb1542f8ec7
+25557	26771	7248222545291248	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_task.pbi	af602bef6ecb4f6b
+25795	26913	7248222546760394	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_drv.pbi	b602d204d584ce76
+26773	28088	7248222558473507	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_drv.pbi	3d67e936fe7a1583
+26915	28165	7248222559273044	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_glb_vars.pbi	8b06b3639bc5ef42
+28091	29345	7248222571062068	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_glb_vars.pbi	c514314bf6ecff16
+28168	29407	7248222571611725	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/MODBUS_SLAVE/modbus_slave_glb_vars.pbi	ec57e8fd90b90311
+29347	30802	7248222585643566	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_init.pbi	c32e97056e36162d
+29409	30871	7248222586333150	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_glb_vars.pbi	b7076a773526b2b
+30873	31424	7248222590000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_glb_vars.xcl	9cd71ee475ed2a9
+31426	31578	7248222593349074	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_glb_vars.pbi	cbb756f36000df5
+30804	32060	7248222598156259	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_init.pbi	2ebc3158b90c14bd
+31580	32200	7248222590000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_drv.xcl	d0ca37eec50af5a2
+32062	32630	7248222600000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_drv.xcl	97455299ab67644e
+32633	32788	7248222605392058	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_drv.pbi	9ad75f8b74e4c97d
+32789	33372	7248222610000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_init.xcl	60c8eb85c8c249f9
+32203	33491	7248222612497911	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/FK/fk_drv.pbi	fa4f7cf19cb03935
+33374	33532	7248222612747772	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_init.pbi	f52564244e3c5c51
+33493	34075	7248222610000000	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_task.xcl	1328fa3af973cc4c
+33534	34578	7248222623364900	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_cortex.pbi	f1ed519e5b61bd47
+34078	35383	7248222631440208	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/CRC/crc_task.pbi	36a02969127da76f
+34580	35807	7248222635647749	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_task.pbi	5c460f64521ab2e9
+35386	36443	7248222642014042	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_exti.pbi	51dabb412d9bbd62
+35809	37035	7248222647950588	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/PFC/pfc_udef.pbi	79a706754d2ac00c
+36445	37456	7248222652148132	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr.pbi	2543118609afe72a
+37037	38087	7248222658474478	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_gpio.pbi	c9aa4ca83150a530
+37458	38549	7248222663081770	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma.pbi	614caf6fa771eeba
+38089	39053	7248222668118943	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash.pbi	ca47dbb1c49d51d7
+38551	39532	7248222672906054	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/CMSIS/system_stm32g4xx.pbi	71eb6b53dcee633
+39055	40025	7248222677883155	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal.pbi	5bc5cac41bcc7897
+39534	40472	7248222682310589	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_dma_ex.pbi	a643a677d1de4bf1
+40027	40997	7248222687557520	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ex.pbi	63213c152e2a9ff9
+40474	41396	7248222691555202	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_flash_ramfunc.pbi	cff738d987af19b3
+40999	42026	7248222697861524	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_pwr_ex.pbi	80af3189ae96dc48
+41398	42505	7248222702638730	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc.pbi	22607f04e4554644
+42028	43087	7248222708455350	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_rcc_ex.pbi	d5da6dfdffa11713
+42507	43369	7248222711283696	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart_ex.pbi	8e183837c6b29f60
+43089	43986	7248222717520063	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part0.pbi	c0f8bad52be4baa2
+43371	44593	7248222723576544	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part5.pbi	78f0f20acc5f1ce6
+43988	44992	7248222727544245	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim.pbi	960a8cd4b0cc428f
+44595	45890	7248222736548983	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part3.pbi	a5ef1482d11a4036
+44994	46327	7248222740926429	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part4.pbi	c196745c0b237480
+45892	47212	7248222749771297	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part1.pbi	a0cf0fc38f95de88
+46329	47243	7248222749811257	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_tim_ex.pbi	535093f22f77d08e
+47246	48266	7248222760275394	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Drivers/STM32G4xx_HAL_Driver/stm32g4xx_hal_uart.pbi	b23c58d528a3b0ce
+47214	48616	7248222763793358	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part2.pbi	97a8b9f4d392f8de
+48268	49363	7248222771288981	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part6.pbi	5c4b613c27b31caf
+49364	50794	7248222785598767	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	7faab42f9777257a
+50795	56601	7248222841253386	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	68cd905411554608
+30	878	7248225492534591	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.pbi	df1b72ef1bfb9bdd
+880	1776	7248225501526147	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part0.pbi	c0f8bad52be4baa2
+1778	3663	7248225520423762	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	7faab42f9777257a
+3665	11030	7248225591516188	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	68cd905411554608
+31	1290	7248225660141876	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.pbi	df1b72ef1bfb9bdd
+1292	2352	7248225670885618	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part0.pbi	c0f8bad52be4baa2
+2354	3765	7248225685031752	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	7faab42f9777257a
+3767	11347	7248225758481399	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	68cd905411554608
+28	1028	7248225927377294	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.pbi	df1b72ef1bfb9bdd
+1030	1665	7248225933823561	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part0.pbi	c0f8bad52be4baa2
+1666	3161	7248225948794834	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	7faab42f9777257a
+3163	11514	7248226029949200	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	68cd905411554608
+31	1361	7248226099198887	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.pbi	df1b72ef1bfb9bdd
+1363	2123	7248226106874422	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part0.pbi	c0f8bad52be4baa2
+2125	3888	7248226124534156	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	7faab42f9777257a
+3890	11408	7248226197113489	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	68cd905411554608
+62	1166	7248227866807139	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/main.pbi	df1b72ef1bfb9bdd
+34	1168	7248227866817132	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/stm32g4xx_hal_msp.pbi	ba8e6ff2416e92f1
+1170	1808	7248227873270097	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part0.pbi	c0f8bad52be4baa2
+1810	3020	7248227885392132	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	7faab42f9777257a
+3022	8390	7248227936701556	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	68cd905411554608
+47	2390	7248239036431069	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Core/stm32g4xx_hal_msp.pbi	ba8e6ff2416e92f1
+2392	4240	7248239055089559	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part0.pbi	c0f8bad52be4baa2
+4242	6548	7248239078157065	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	7faab42f9777257a
+6549	17363	7248239182582643	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	68cd905411554608
+32	1157	7248239252273923	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_task.pbi	ae6aef3c68278546
+1159	2720	7248239267924268	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part2.pbi	97a8b9f4d392f8de
+2722	4058	7248239281286016	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	7faab42f9777257a
+4060	10540	7248239343342137	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	68cd905411554608
+29	835	7248240081791189	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_task.pbi	ae6aef3c68278546
+837	1885	7248240092315548	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part2.pbi	97a8b9f4d392f8de
+1887	3170	7248240105129270	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	7faab42f9777257a
+3172	9032	7248240161528389	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	68cd905411554608
+35	1073	7248240228013659	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/Application/User/Module/HBTC/hbtc_task.pbi	ae6aef3c68278546
+1075	2192	7248240239226830	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary_part2.pbi	97a8b9f4d392f8de
+2194	3406	7248240251371031	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbd	7faab42f9777257a
+3408	8700	7248240302220415	F:/Ongoing Project/[1]FW project/【模組化】/STM32G474_FKLibrary/EWARM/STM32G474_FKLibrary/BrowseInfo/STM32G474_FKLibrary.pbw	68cd905411554608

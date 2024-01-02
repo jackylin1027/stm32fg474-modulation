@@ -1,0 +1,40 @@
+F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\STM32G474_FKLibrary\BrowseInfo\Drivers\STM32G4xx_HAL_Driver\stm32g4xx_hal_exti.pbi: \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\Drivers\STM32G4xx_HAL_Driver\Src\stm32g4xx_hal_exti.c \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Core\Inc\stm32g4xx_hal_conf.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_rcc.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_def.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\CMSIS\Device\ST\STM32G4xx\Include\stm32g4xx.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\CMSIS\Device\ST\STM32G4xx\Include\stm32g474xx.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\CMSIS\Include\core_cm4.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\DLib_Product.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\aarch32\iccarm_builtin.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\CMSIS\Include\mpu_armv7.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\CMSIS\Device\ST\STM32G4xx\Include\system_stm32g4xx.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\stddef.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\c\ysizet.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_rcc_ex.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_gpio.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_gpio_ex.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_dma.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_dma_ex.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_cortex.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_exti.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_flash.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_flash_ex.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_flash_ramfunc.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_pwr.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_pwr_ex.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_tim.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_tim_ex.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_uart.h \
+  F:\Ongoing\ Project\[1]FW\ project\【模組化】\STM32G474_FKLibrary\EWARM\..\Drivers\STM32G4xx_HAL_Driver\Inc\stm32g4xx_hal_uart_ex.h
